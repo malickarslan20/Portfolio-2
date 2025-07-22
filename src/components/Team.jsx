@@ -59,7 +59,7 @@ const Team = () => {
       social: {
         linkedin: '#',
         twitter: '#',
-        github: '#'
+        github: ''
       },
       gradient: 'from-pink-500 to-rose-500'
     },
